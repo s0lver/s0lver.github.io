@@ -9,6 +9,7 @@ title:               'S0lver thoughts'
 tagline:             'not fantastic toughts really'
 description:         'My blog site'
 url:                 http://s0lver.github.io
+#url:                 http://www.tamps.cinvestav.mx/~rperez/blog
 baseurl:             ''
 #baseurl:             'http://www.tamps.cinvestav.mx/~rperez'
 
